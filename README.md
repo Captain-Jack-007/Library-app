@@ -12,3 +12,6 @@ Filter by favorite,
 Error handling:
 Fill the blank,
 Network error
+
+Cheers lads,
+Sardorbek Sirojov
